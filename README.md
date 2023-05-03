@@ -22,7 +22,7 @@
 </div><br/>
 
 Cursando faculdade de ADS pela Estacio de Sá,
- Aluna no Curso Full Stack, pela stackx.
+ Aluna no Curso Desenvolvimento de Softwear, pela stackx.
 Sou Nail Desginer e no momento estou fazendo
  a transição de carreia, para me tornar uma
 Programadora de sucesso.
